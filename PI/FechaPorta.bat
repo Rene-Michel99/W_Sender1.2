@@ -1,0 +1,1 @@
+netsh advfirewall firewall delete rule name="PYTINPASS" protocol=tcp localport=57000

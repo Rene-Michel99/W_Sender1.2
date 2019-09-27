@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1568142177 source:c:\users\marco aurelio\desktop\projects\projeto_processo\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cstring>
+	"init.h"
+	"functions.h"
+	<stdlib.h>
+	<thread>
+
+1567997495 c:\users\marco aurelio\desktop\projects\projeto_processo\init.h
+
+1568141899 c:\users\marco aurelio\desktop\projects\projeto_processo\functions.h
+	<thread>
+
+1568145261 source:c:\users\ren  michel\onedrive\documents\projeto_processo\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cstring>
+	"init.h"
+	"functions.h"
+	<stdlib.h>
+	<thread>
+
+1567997496 c:\users\ren  michel\onedrive\documents\projeto_processo\init.h
+
+1568141900 c:\users\ren  michel\onedrive\documents\projeto_processo\functions.h
+	<thread>
+
+1568147982 source:c:\users\marco aurelio\documents\projects\projeto_processo\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cstring>
+	"init.h"
+	"functions.h"
+	<stdlib.h>
+	<thread>
+
+1567997496 c:\users\marco aurelio\documents\projects\projeto_processo\init.h
+
+1568147982 c:\users\marco aurelio\documents\projects\projeto_processo\functions.h
+	<thread>
+
+1569586645 source:c:\users\ren  michel\onedrive\documents\nova pasta\projeto_processo\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cstring>
+	"init.h"
+	"functions.h"
+	<stdlib.h>
+	<thread>
+
+1567997496 c:\users\ren  michel\onedrive\documents\nova pasta\projeto_processo\init.h
+
+1569262422 c:\users\ren  michel\onedrive\documents\nova pasta\projeto_processo\functions.h
+	<thread>
+
+1569607856 source:c:\users\ren  michel\onedrive\documents\nova pasta\projeto_processo - python\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cstring>
+	"init.h"
+	"functions.h"
+	<stdlib.h>
+	<thread>
+	"connect_C.h"
+
+1567997496 c:\users\ren  michel\onedrive\documents\nova pasta\projeto_processo - python\init.h
+
+1569262422 c:\users\ren  michel\onedrive\documents\nova pasta\projeto_processo - python\functions.h
+	<thread>
+
+1569607694 c:\users\ren  michel\onedrive\documents\nova pasta\projeto_processo - python\connect_c.h
+	<SFML/Network.hpp>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
